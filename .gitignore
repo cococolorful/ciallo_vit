@@ -1,0 +1,8 @@
+env
+lightning_logs
+MNIST
+*.pyc
+*.egg-info
+dist
+build
+*.onnx
